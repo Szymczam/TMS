@@ -8,6 +8,7 @@
 #include "ADC.h"
 
 
+
 ADC_RESULT_T adc;
 
 const float ADC_const = (3300.0/4096.0);
