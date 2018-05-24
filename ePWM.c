@@ -6,7 +6,7 @@
  */
 
 #include "ePWM.h"
-//i co dalej
+
 //clk_spwm = 200_000_000 Hz
 
 EPWM_INFO epwm1 = {
